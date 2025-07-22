@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cosmocalendar_flutter/providers/event_provider.dart';
-import 'package:cosmocalendar_flutter/widgets/weekly_event_list.dart';
+import 'package:cosmocalendar_flutter/widgets/calendar_view.dart';
 import 'package:cosmocalendar_flutter/widgets/event_group.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
@@ -21,14 +21,14 @@ class MainScreen extends ConsumerWidget {
           title: Text(localizations.headerTitle),
           bottom: TabBar(
             tabs: [
-              Tab(text: localizations.tabsThisWeek),
+              Tab(text: "Calendar"),
               Tab(text: localizations.tabsComingSoon),
             ],
           ),
         ),
         body: TabBarView(
           children: [
-            const WeeklyEventList(),
+            const CalendarView(),
             ListView.builder(
               itemCount: eventsByDate.keys.length,
               itemBuilder: (context, index) {
