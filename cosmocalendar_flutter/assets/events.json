@@ -1,0 +1,451 @@
+[
+  {
+    "id": "ecl-2025-03-14",
+    "date": "2025-03-14T00:58:00Z",
+    "endDate": "2025-03-14T03:00:00Z",
+    "title": "Total Lunar Eclipse in Virgo",
+    "type": "eclipse",
+    "description": "A powerful eclipse highlighting themes of service, health, and purification. Visibility in the Americas, Western Europe, and Africa.",
+    "sign": "Virgo"
+  },
+  {
+    "id": "ecl-2025-03-29",
+    "date": "2025-03-29T09:00:00Z",
+    "endDate": "2025-03-29T10:15:00Z",
+    "title": "Partial Solar Eclipse in Aries",
+    "type": "eclipse",
+    "description": "Bold new beginnings and self-assertion. Visibility in Europe, North Africa, and Western Asia.",
+    "sign": "Aries"
+  },
+  {
+    "id": "ecl-2025-09-07",
+    "date": "2025-09-07T18:12:00Z",
+    "endDate": "2025-09-07T20:55:00Z",
+    "title": "Total Lunar Eclipse in Pisces",
+    "type": "eclipse",
+    "description": "A deeply spiritual and emotional eclipse, ideal for healing and release. Visibility in Europe, Africa, Asia, and Australia.",
+    "sign": "Pisces"
+  },
+  {
+    "id": "ecl-2025-09-21",
+    "date": "2025-09-21T07:30:00Z",
+    "endDate": "2025-09-21T09:00:00Z",
+    "title": "Partial Solar Eclipse in Libra",
+    "type": "eclipse",
+    "description": "A new beginning in relationships and the search for balance. Visibility in Australia and the South Pacific.",
+    "sign": "Libra"
+  },
+  {
+    "id": "ecl-2026-03-03",
+    "date": "2026-03-03T11:34:00Z",
+    "endDate": "2026-03-03T13:17:00Z",
+    "title": "Total Lunar Eclipse",
+    "type": "eclipse",
+    "description": "A moment of emotional culmination and important revelations, with the umbra beginning at 09:50 UTC."
+  },
+  {
+    "id": "ecl-2026-08-12",
+    "date": "2026-08-12T18:45:00Z",
+    "endDate": "2026-08-12T20:29:00Z",
+    "title": "Total Solar Eclipse in Leo",
+    "type": "eclipse",
+    "description": "A spectacular event of self-expression and creativity. Visible in northern Spain, Iceland, and Greenland.",
+    "sign": "Leo"
+  },
+  {
+    "id": "ecl-2026-08-28",
+    "date": "2026-08-28T04:12:00Z",
+    "endDate": "2026-08-28T05:51:00Z",
+    "title": "Partial Lunar Eclipse in Pisces",
+    "type": "eclipse",
+    "description": "An emotional closure related to dreams and spirituality. Visible in the Americas, Europe, Africa, and Asia.",
+    "sign": "Pisces"
+  },
+  {
+    "id": "moon-2025-07-10",
+    "date": "2025-07-10T20:37:00Z",
+    "title": "Full Moon in Capricorn",
+    "type": "moon_phase",
+    "description": "Culmination of professional efforts. A time to recognize achievements and responsibilities.",
+    "sign": "Capricorn"
+  },
+  {
+    "id": "moon-2025-07-24",
+    "date": "2025-07-24T19:11:00Z",
+    "title": "New Moon in Leo",
+    "type": "moon_phase",
+    "description": "Ideal for starting creative projects and connecting with self-expression and confidence.",
+    "sign": "Leo"
+  },
+  {
+    "id": "moon-2025-08-09",
+    "date": "2025-08-09T18:55:00Z",
+    "title": "Full Moon in Aquarius",
+    "type": "moon_phase",
+    "description": "Revelations in the social and community sphere. Time to connect with friends and groups.",
+    "sign": "Aquarius"
+  },
+  {
+    "id": "moon-2025-08-23",
+    "date": "2025-08-23T18:38:00Z",
+    "title": "New Moon in Virgo",
+    "type": "moon_phase",
+    "description": "Perfect for establishing new health, work, and organizational routines.",
+    "sign": "Virgo"
+  },
+  {
+    "id": "moon-2025-09-07",
+    "date": "2025-09-07T18:12:00Z",
+    "title": "Full Moon in Pisces",
+    "type": "moon_phase",
+    "description": "A very spiritual and emotional moon, ideal for healing, meditation, and letting go of burdens.",
+    "sign": "Pisces"
+  },
+  {
+    "id": "moon-2025-09-21",
+    "date": "2025-09-21T18:55:00Z",
+    "title": "New Moon in Virgo",
+    "type": "moon_phase",
+    "description": "A second chance to fine-tune details, organize, and improve habits and systems.",
+    "sign": "Virgo"
+  },
+  {
+    "id": "moon-2025-10-06",
+    "date": "2025-10-06T21:47:00Z",
+    "title": "Full Moon in Aries",
+    "type": "moon_phase",
+    "description": "Culmination of personal matters. Energy for self-affirmation and independence.",
+    "sign": "Aries"
+  },
+  {
+    "id": "moon-2025-10-20",
+    "date": "2025-10-20T11:13:00Z",
+    "title": "New Moon in Libra",
+    "type": "moon_phase",
+    "description": "Time to start new relationships, agreements, or seek balance and harmony.",
+    "sign": "Libra"
+  },
+  {
+    "id": "moon-2025-11-05",
+    "date": "2025-11-05T13:19:00Z",
+    "title": "Full Moon in Taurus",
+    "type": "moon_phase",
+    "description": "Revelations about finances, values, and material security. Connection with the sensory.",
+    "sign": "Taurus"
+  },
+  {
+    "id": "moon-2025-11-19",
+    "date": "2025-11-19T18:57:00Z",
+    "title": "New Moon in Scorpio",
+    "type": "moon_phase",
+    "description": "Intense energy for deep transformation, investigation, and intimate connection.",
+    "sign": "Scorpio"
+  },
+  {
+    "id": "moon-2025-12-05",
+    "date": "2025-12-05T00:47:00Z",
+    "title": "Full Moon in Gemini",
+    "type": "moon_phase",
+    "description": "Culmination of ideas and conversations. News and mental clarity.",
+    "sign": "Gemini"
+  },
+  {
+    "id": "moon-2025-12-19",
+    "date": "2025-12-19T18:39:00Z",
+    "title": "New Moon in Sagittarius",
+    "type": "moon_phase",
+    "description": "Ideal for planning trips, higher education, or expanding philosophical horizons.",
+    "sign": "Sagittarius"
+  },
+  {
+    "id": "moon-2026-01-03",
+    "date": "2026-01-03T01:08:00Z",
+    "title": "Full Moon in Cancer",
+    "type": "moon_phase",
+    "description": "Emotional moment focused on home, family, and internal needs.",
+    "sign": "Cancer"
+  },
+  {
+    "id": "moon-2026-01-17",
+    "date": "2026-01-17T03:48:00Z",
+    "title": "New Moon in Capricorn",
+    "type": "moon_phase",
+    "description": "Excellent for setting long-term professional goals and working with discipline.",
+    "sign": "Capricorn"
+  },
+  {
+    "id": "moon-2026-02-01",
+    "date": "2026-02-01T13:09:00Z",
+    "title": "Full Moon in Leo",
+    "type": "moon_phase",
+    "description": "Celebration of creativity, romance, and personal shine. Time to be seen.",
+    "sign": "Leo"
+  },
+  {
+    "id": "moon-2026-02-15",
+    "date": "2026-02-15T22:02:00Z",
+    "title": "New Moon in Aquarius",
+    "type": "moon_phase",
+    "description": "To start innovative projects, connect with groups, and think about the collective future.",
+    "sign": "Aquarius"
+  },
+  {
+    "id": "moon-2026-03-03",
+    "date": "2026-03-03T00:38:00Z",
+    "title": "Full Moon in Virgo",
+    "type": "moon_phase",
+    "description": "Culmination of work or health projects. Attention to details and order.",
+    "sign": "Virgo"
+  },
+  {
+    "id": "moon-2026-03-17",
+    "date": "2026-03-17T09:25:00Z",
+    "title": "New Moon in Pisces",
+    "type": "moon_phase",
+    "description": "Energy for meditation, artistic creativity, and spiritual connection.",
+    "sign": "Pisces"
+  },
+  {
+    "id": "moon-2026-04-01",
+    "date": "2026-04-01T10:13:00Z",
+    "title": "Full Moon in Libra",
+    "type": "moon_phase",
+    "description": "Key moment for relationships, diplomacy, and the search for balance.",
+    "sign": "Libra"
+  },
+  {
+    "id": "moon-2026-04-15",
+    "date": "2026-04-15T00:13:00Z",
+    "title": "New Moon in Aries",
+    "type": "moon_phase",
+    "description": "Impulse for new personal beginnings, taking initiative, and being brave.",
+    "sign": "Aries"
+  },
+  {
+    "id": "moon-2026-05-01",
+    "date": "2026-04-30T22:24:00Z",
+    "title": "Full Moon in Scorpio",
+    "type": "moon_phase",
+    "description": "Emotional intensity and deep revelations. Power to let go of what no longer serves.",
+    "sign": "Scorpio"
+  },
+  {
+    "id": "moon-2026-05-15",
+    "date": "2026-05-15T17:02:00Z",
+    "title": "New Moon in Taurus",
+    "type": "moon_phase",
+    "description": "Ideal for sowing intentions related to stability, finances, and pleasure.",
+    "sign": "Taurus"
+  },
+  {
+    "id": "moon-2026-05-30",
+    "date": "2026-05-30T11:47:00Z",
+    "title": "Full Moon in Sagittarius",
+    "type": "moon_phase",
+    "description": "Culmination of studies or travels. Expansion of consciousness and truth.",
+    "sign": "Sagittarius"
+  },
+  {
+    "id": "moon-2026-06-14",
+    "date": "2026-06-14T11:18:00Z",
+    "title": "New Moon in Gemini",
+    "type": "moon_phase",
+    "description": "New ideas, communication projects, learning, and social connections.",
+    "sign": "Gemini"
+  },
+  {
+    "id": "ms-2025-06-27",
+    "date": "2025-06-27T12:00:00Z",
+    "title": "Peak of the June Bootids Meteor Shower",
+    "type": "planet_transit",
+    "description": "Variable meteor activity originating from the constellation of Bootes."
+  },
+  {
+    "id": "season-2025-06-21",
+    "date": "2025-06-21T02:42:00Z",
+    "title": "Summer Solstice (Northern Hemisphere)",
+    "type": "solstice_equinox",
+    "description": "The longest day of the year marks the beginning of summer in the northern hemisphere."
+  },
+  {
+    "id": "season-2025-09-22",
+    "date": "2025-09-22T18:19:00Z",
+    "title": "Autumn Equinox (Northern Hemisphere)",
+    "type": "solstice_equinox",
+    "description": "Day and night are of equal length, marking the beginning of autumn."
+  },
+  {
+    "id": "season-2025-12-21",
+    "date": "2025-12-21T15:03:00Z",
+    "title": "Winter Solstice (Northern Hemisphere)",
+    "type": "solstice_equinox",
+    "description": "The longest night of the year welcomes winter."
+  },
+  {
+    "id": "season-2026-03-20",
+    "date": "2026-03-20T14:46:00Z",
+    "title": "Spring Equinox (Northern Hemisphere)",
+    "type": "solstice_equinox",
+    "description": "Day and night are equal again, heralding the arrival of spring."
+  },
+  {
+    "id": "season-2026-06-21",
+    "date": "2026-06-21T08:24:00Z",
+    "title": "Summer Solstice (Northern Hemisphere)",
+    "type": "solstice_equinox",
+    "description": "Summer officially begins in the northern hemisphere."
+  },
+  {
+    "id": "transit-jupiter-cancer-2025",
+    "date": "2025-06-09T21:02:00Z",
+    "title": "Jupiter enters Cancer",
+    "type": "planet_transit",
+    "description": "Expansion in themes of home, family, and emotional security. Great time to nurture and grow personally.",
+    "planet": "Jupiter",
+    "sign": "Cancer"
+  },
+  {
+    "id": "retro-jupiter-cancer-2025",
+    "date": "2025-11-11T16:41:00Z",
+    "title": "Jupiter begins retrograde in Cancer",
+    "type": "planet_retrograde",
+    "description": "A period to re-evaluate emotional and family growth. Internal review of our security needs.",
+    "planet": "Jupiter",
+    "sign": "Cancer"
+  },
+  {
+    "id": "direct-jupiter-cancer-2026",
+    "date": "2026-06-30T10:00:00Z",
+    "title": "Jupiter ends retrograde in Cancer",
+    "type": "planet_transit",
+    "description": "Progress in home and family matters resumes with a new perspective and wisdom.",
+    "planet": "Jupiter",
+    "sign": "Cancer"
+  },
+  {
+    "id": "transit-saturn-aries-2025",
+    "date": "2025-05-25T03:35:00Z",
+    "title": "Saturn enters Aries",
+    "type": "planet_transit",
+    "description": "Time to build a new identity with discipline and responsibility. Lessons on patience and leadership.",
+    "planet": "Saturn",
+    "sign": "Aries"
+  },
+  {
+    "id": "retro-saturn-aries-2025",
+    "date": "2025-07-13T04:07:00Z",
+    "title": "Saturn begins retrograde in Aries",
+    "type": "planet_retrograde",
+    "description": "Review of our personal structures, our self-affirmation, and how we take initiative.",
+    "planet": "Saturn",
+    "sign": "Aries"
+  },
+  {
+    "id": "transit-saturn-pisces-retro-2025",
+    "date": "2025-09-01T08:06:00Z",
+    "title": "Saturn returns to Pisces (retrograde)",
+    "type": "planet_transit",
+    "description": "A last chance to dissolve old karmic structures and heal past issues before moving forward.",
+    "planet": "Saturn",
+    "sign": "Pisces"
+  },
+  {
+    "id": "direct-saturn-pisces-2025",
+    "date": "2025-11-28T03:51:00Z",
+    "title": "Saturn ends retrograde in Pisces",
+    "type": "planet_transit",
+    "description": "Clarity and structure in our dreams and spirituality. Emotional lessons are solidified.",
+    "planet": "Saturn",
+    "sign": "Pisces"
+  },
+  {
+    "id": "transit-uranus-gemini-2025",
+    "date": "2025-07-07T07:45:00Z",
+    "title": "Uranus enters Gemini",
+    "type": "planet_transit",
+    "description": "Revolution in communication, thought, and technology. Innovations and abrupt changes in the way we learn.",
+    "planet": "Uranus",
+    "sign": "Gemini"
+  },
+  {
+    "id": "retro-uranus-gemini-2025",
+    "date": "2025-09-06T04:51:00Z",
+    "title": "Uranus begins retrograde in Gemini",
+    "type": "planet_retrograde",
+    "description": "Internal review of our most innovative ideas. Questioning traditional forms of communication.",
+    "planet": "Uranus",
+    "sign": "Gemini"
+  },
+  {
+    "id": "transit-uranus-taurus-retro-2025",
+    "date": "2025-11-08T02:22:00Z",
+    "title": "Uranus returns to Taurus (retrograde)",
+    "type": "planet_transit",
+    "description": "A final review of the changes in our values, finances, and relationship with material resources.",
+    "planet": "Uranus",
+    "sign": "Taurus"
+  },
+  {
+    "id": "transit-neptune-aries-2025",
+    "date": "2025-03-30T11:59:00Z",
+    "title": "Neptune enters Aries",
+    "type": "planet_transit",
+    "description": "Dreams and spirituality are tinged with action and initiative. Search for an active and brave idealism.",
+    "planet": "Neptune",
+    "sign": "Aries"
+  },
+  {
+    "id": "retro-neptune-aries-2025",
+    "date": "2025-07-04T21:33:00Z",
+    "title": "Neptune begins retrograde in Aries",
+    "type": "planet_retrograde",
+    "description": "Confusion or re-evaluation of our spiritual impulses. Are we fighting for a dream or an illusion?",
+    "planet": "Neptune",
+    "sign": "Aries"
+  },
+  {
+    "id": "transit-neptune-pisces-retro-2025",
+    "date": "2025-10-22T09:47:00Z",
+    "title": "Neptune returns to Pisces (retrograde)",
+    "type": "planet_transit",
+    "description": "Final dissolution of old dreams and deceptions to prepare the ground for a new spiritual cycle.",
+    "planet": "Neptune",
+    "sign": "Pisces"
+  },
+  {
+    "id": "direct-neptune-pisces-2025",
+    "date": "2025-12-10T12:23:00Z",
+    "title": "Neptune ends retrograde in Pisces",
+    "type": "planet_transit",
+    "description": "Greater clarity in our connection with the collective unconscious and universal inspiration.",
+    "planet": "Neptune",
+    "sign": "Pisces"
+  },
+  {
+    "id": "retro-pluto-aquarius-2025",
+    "date": "2025-05-04T15:28:00Z",
+    "title": "Pluto begins retrograde in Aquarius",
+    "type": "planet_retrograde",
+    "description": "Deep review of power in technology, community, and collective ideals.",
+    "planet": "Pluto",
+    "sign": "Aquarius"
+  },
+  {
+    "id": "direct-pluto-aquarius-2025",
+    "date": "2025-10-14T02:52:00Z",
+    "title": "Pluto ends retrograde in Aquarius",
+    "type": "planet_transit",
+    "description": "Social and technological transformation advances with a new awareness of its power and responsibility.",
+    "planet": "Pluto",
+    "sign": "Aquarius"
+  },
+  {
+    "id": "retro-chiron-aries-2025",
+    "date": "2025-07-30T14:42:00Z",
+    "title": "Chiron begins retrograde in Aries",
+    "type": "planet_retrograde",
+    "description": "A period of inner healing related to the wound of identity, self-affirmation, and the right to exist.",
+    "planet": "Chiron",
+    "sign": "Aries"
+  }
+]

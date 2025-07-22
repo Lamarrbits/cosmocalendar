@@ -9,11 +9,6 @@ export function useEventData() {
     new Set(['moon_phase', 'eclipse', 'planet_retrograde', 'planet_transit', 'solstice_equinox'])
   );
   const [searchTerm, setSearchTerm] = useState('');
-  const [isClient, setIsClient] = useState(false);
-
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   const handleFilterChange = (filter: string, isChecked: boolean) => {
     setFilters(prev => {
@@ -27,10 +22,9 @@ export function useEventData() {
     });
   };
 
-  const today = useMemo(() => isClient ? startOfToday() : new Date(), [isClient]);
+  const today = useMemo(() => startOfToday(), []);
 
   const filteredEvents = useMemo(() => {
-    if (!isClient) return [];
     return allEvents
       .filter(event => filters.has(event.type))
       .filter(event => {
@@ -48,10 +42,9 @@ export function useEventData() {
         return isAfter(eventDate, today);
       })
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-  }, [filters, searchTerm, isClient, today]);
+  }, [filters, searchTerm, today]);
 
   const weeklyEvents = useMemo(() => {
-    if (!isClient) return [];
     const weekStart = startOfWeek(today, { weekStartsOn: 1 });
     const weekEnd = endOfWeek(today, { weekStartsOn: 1 });
     return allEvents
@@ -60,10 +53,9 @@ export function useEventData() {
         return isWithinInterval(eventDate, { start: weekStart, end: weekEnd });
       })
       .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
-  }, [today, isClient]);
+  }, [today]);
 
   const eventsByDate = useMemo(() => {
-    if(!isClient) return {};
     return allEvents.reduce<Record<string, AstrologicalEvent[]>>((acc, event) => {
       const dateKey = parseISO(event.date).toDateString();
       if (!acc[dateKey]) {
@@ -72,7 +64,7 @@ export function useEventData() {
       acc[dateKey].push(event);
       return acc;
     }, {});
-  }, [isClient]);
+  }, []);
 
   return {
     filters,
@@ -82,7 +74,6 @@ export function useEventData() {
     filteredEvents,
     weeklyEvents,
     eventsByDate,
-    isClient,
     today
   };
 }
