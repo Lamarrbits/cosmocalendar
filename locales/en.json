@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Cosmic Calendar",
+    "enableNotifications": "Enable notifications",
+    "changeLanguage": "Change language",
+    "filterAndSearch": "Filter and Search",
+    "filterDescription": "Refine the astrological events shown on the calendar."
+  },
+  "tabs": {
+    "this-week": "This Week",
+    "coming-soon": "Coming Soon",
+    "nowadays": "Nowadays"
+  },
+  "filters": {
+    "searchPlaceholder": "Search events...",
+    "eventTypes": "Event Types",
+    "moon_phase": "Moon Phases",
+    "eclipse": "Eclipses",
+    "planet_retrograde": "Retrogrades",
+    "planet_transit": "Transits",
+    "solstice_equinox": "Solstices & Equinoxes"
+  },
+  "weeklyView": {
+    "title": "Events for This Week",
+    "noEvents": "No significant events this week."
+  },
+  "listView": {
+    "noEvents": "No events match your criteria."
+  },
+  "nowadaysView": {
+    "noEvents": "No major astrological events are currently ongoing."
+  },
+  "eventCard": {
+    "from": "From",
+    "to": "to",
+    "loadingDate": "Loading date..."
+  },
+  "reminders": {
+    "title": "Set reminder",
+    "description": "Receive a notification before the event.",
+    "none": "None",
+    "minutes": "minutes",
+    "hour": "hour",
+    "day": "day",
+    "before": "before",
+    "custom": "Custom alarm",
+    "on": "on",
+    "at": "at",
+    "pickDate": "Pick a date",
+    "save": "Save"
+  },
+  "toasts": {
+    "error": "Error",
+    "notificationsNotSupported": "This browser does not support desktop notifications.",
+    "notificationsEnabled": {
+      "title": "Notifications enabled",
+      "description": "You have already allowed notifications.",
+      "now": "You have enabled notifications."
+    },
+    "notificationsBlocked": {
+      "title": "Notifications blocked",
+      "description": "Please enable notifications in your browser settings."
+    },
+    "success": "Success!",
+    "notificationsNotEnabled": {
+      "title": "Notifications not enabled",
+      "description": "You have not allowed notifications."
+    },
+    "dateNotSelected": {
+      "title": "Date not selected",
+      "description": "Please select a date for the custom alarm."
+    },
+    "reminderRemoved": "Reminder removed",
+    "reminderSet": {
+      "title": "Reminder set!",
+      "description": "You will receive a notification"
+    },
+    "permissionRequired": {
+      "title": "Notification permission required",
+      "description": "Please enable notifications in the header to set reminders."
+    },
+    "reminderInPast": {
+      "title": "Reminder is in the past",
+      "description": "Cannot set a reminder for a past date."
+    },
+    "eventPassed": {
+      "title": "The event or reminder has already passed",
+      "description": "Cannot set a reminder for a past date."
+    }
+  }
+}
